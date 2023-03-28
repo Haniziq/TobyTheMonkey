@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Screen.unity
+    guid: 7b5bb50fa8321864f8127cac86f6c93b
+  - enabled: 1
+    path: Assets/Scenes/Instruction.unity
+    guid: d39267f74dd3041458aa7c5c31d83c21
+  - enabled: 1
+    path: Assets/Scenes/AR Camera.unity
+    guid: 03d41830941701d4f83d0379dfd1a87f
+  - enabled: 1
+    path: Assets/Scenes/Select Activity.unity
+    guid: b74da260b8ee4634697ceab0678eb3e7
+  - enabled: 1
+    path: Assets/Scenes/Dictionary.unity
+    guid: e11d2735db98f994684b35bb72433aa0
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: a306fd2946a47f14188a56618153c43b
+  - enabled: 1
+    path: Assets/Scenes/Instru Quiz.unity
+    guid: 6da7b84acdda23d489292917862ebb04
+  - enabled: 1
+    path: Assets/Scenes/Instru Dictionary.unity
+    guid: c305bb661a0cefb49ab4d2be08be071b
+  - enabled: 1
+    path: Assets/Scenes/Instruc Select.unity
+    guid: f162e5794728faf4cb1bd11e05a43165
+  m_configObjects: {}

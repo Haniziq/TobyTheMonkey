@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="clorex" size="10.000000 5.814815" />
+    <ImageTarget name="page2" size="10.000000 13.043478" />
+    <ImageTarget name="page1" size="10.000000 13.488372" />
+    <ImageTarget name="Crocodle" size="10.000000 13.792208" />
+  </Tracking>
+</QCARConfig>
